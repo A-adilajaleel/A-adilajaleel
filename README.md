@@ -69,19 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Adila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-adilajaleel&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-adilajaleel&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=A-adilajaleel&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
@@ -92,7 +79,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=A-adilajaleel&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
