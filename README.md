@@ -23,24 +23,6 @@
 
 ---
 
-## 🏆 Open Source Contributions
-
-### GirlScript Summer of Code 2026
-
-- 🌱 Selected as an **Open Source Contributor** for GSSoC 2026
-- 🔀 Successfully merged **4 Pull Requests** across **4 open-source projects**
-- 💻 Contributed using **JavaScript, React, UI development, and AI integrations**
-- 🚀 Worked on features including:
-  - AI streaming integration for Anthropic and OpenAI
-  - Text-to-speech controls for AI responses
-  - VLC configuration provider
-  - Mobile responsiveness and layout improvements
-- 🏅 Ranked **#2,207 globally — Top 5%** among GSSoC 2026 participants
-
-🔗 [View my GSSoC 2026 Profile](https://gssoc.girlscript.org/profile/f50094c9-50a3-4d1d-a459-3948e28e8e17)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
