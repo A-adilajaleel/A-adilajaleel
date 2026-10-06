@@ -19,7 +19,25 @@
 - 🚀 Passionate about **Software Engineering**, **Full Stack Development**, **Backend Development**, and **Problem Solving**
 - 🌱 Continuously improving skills in **Data Structures & Algorithms** and building **scalable software solutions**
 - 🤝 Currently contributing to **GSSoC '26** (GirlScript Summer of Code) as an Open Source Contributor
-- ⭐ **Open to Software Developer and Software Engineer Opportunities**
+- 🤝 **GSSoC '26 Contributor** — contributed to 4 open-source projects and merged 4 Pull Requests
+
+---
+
+## 🏆 Open Source Contributions
+
+### GirlScript Summer of Code 2026
+
+- 🌱 Selected as an **Open Source Contributor** for GSSoC 2026
+- 🔀 Successfully merged **4 Pull Requests** across **4 open-source projects**
+- 💻 Contributed using **JavaScript, React, UI development, and AI integrations**
+- 🚀 Worked on features including:
+  - AI streaming integration for Anthropic and OpenAI
+  - Text-to-speech controls for AI responses
+  - VLC configuration provider
+  - Mobile responsiveness and layout improvements
+- 🏅 Ranked **#2,207 globally — Top 5%** among GSSoC 2026 participants
+
+🔗 [View my GSSoC 2026 Profile](https://gssoc.girlscript.org/profile/f50094c9-50a3-4d1d-a459-3948e28e8e17)
 
 ---
 
