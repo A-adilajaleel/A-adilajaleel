@@ -18,7 +18,6 @@
 - 🎓 **B.Tech in Computer Science Engineering**
 - 🚀 Passionate about **Software Engineering**, **Full Stack Development**, **Backend Development**, and **Problem Solving**
 - 🌱 Continuously improving skills in **Data Structures & Algorithms** and building **scalable software solutions**
-- 🤝 Currently contributing to **GSSoC '26** (GirlScript Summer of Code) as an Open Source Contributor
 - 🤝 **GSSoC '26 Contributor** — contributed to 4 open-source projects and merged 4 Pull Requests
 
 ---
